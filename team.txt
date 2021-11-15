@@ -1,0 +1,13 @@
+team_members = [
+    {
+        name:'anjan'
+        email:'anjnat@uptycs.com'        
+    },
+    // Enter your name and email in the format below. 
+    // Note: Do copy-past then edit to let others know the format.
+    // Your details go above these comments and below the previous member.
+    {
+        name:'[YOUR_NAME_HERE]'
+        email:'[YOUR_EMAIL_HERE]'        
+    },
+]
